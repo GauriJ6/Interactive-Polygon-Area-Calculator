@@ -82,14 +82,10 @@ Root/
 ## 🚀 How to Run
 
 ### Prerequisites
-
 * Java Development Kit (JDK) installed
 
 ### Compilation
-
 Open terminal in your project root and run:
-
-```bash
 javac gui/Start.java
 ```
 
