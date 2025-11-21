@@ -81,11 +81,11 @@ Root/
 
 ## 🚀 How to Run
 
-### **Prerequisites**
+### Prerequisites
 
 * Java Development Kit (JDK) installed
 
-### **Compilation**
+### Compilation
 
 Open terminal in your project root and run:
 
@@ -93,7 +93,7 @@ Open terminal in your project root and run:
 javac gui/Start.java
 ```
 
-### **Execution**
+### Execution
 
 Run the main class:
 
